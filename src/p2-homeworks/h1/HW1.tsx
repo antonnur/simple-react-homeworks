@@ -4,7 +4,7 @@ import Message from "./Message";
 const messageData = {
     avatar: 'https://clck.ru/VjXng',
     name: 'Terminator',
-    message: 'Мне нужен твой мотоцикл и кеды!',
+    message: 'Мне нужны твой мотоцикл и кеды!',
     time: '22:00',
 }
 
